@@ -1702,6 +1702,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Vishnu Kumar Singh</b></sub>
                 </a>
             </td>
+            <td align="center">
+                <a href="https://github.com/twarangupta">
+                    <img src="https://avatars.githubusercontent.com/u/105538565?s=400&u=baf128850c40380ef2ad3ef1621d79e562a37e22&v=4" width="100px;" alt=" Twaran Gupta"/>
+                    <br />
+                    <sub><b>Twaran Gupta</b></sub>
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
